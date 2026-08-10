@@ -1,4 +1,4 @@
-# Rest Project + TypeScript
+# Rest Project + TypeScript + NodeJS
 
 Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
 
